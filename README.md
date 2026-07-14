@@ -1,4 +1,4 @@
-# nextmart-enterprise-ai
+# NEXTMART-ENTERPRISE-AI
 Enterprise AI Business Decision Intelligence Platform 
 ## Version
 
